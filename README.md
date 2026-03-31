@@ -99,3 +99,6 @@ Each request is logged with:
 - Timestamp
 - NSFW detection result
 - Confidence score
+
+# hugging face link 
+https://huggingface.co/spaces/Jkm3105/nsfw-detection-api
