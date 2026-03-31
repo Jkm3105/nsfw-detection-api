@@ -1,3 +1,11 @@
+---
+title: NSFW Detection API
+emoji: 🔞
+colorFrom: red
+colorTo: gray
+sdk: docker
+pinned: false
+---
 # NSFW Image Detection API
 
 An end-to-end API to detect NSFW content in images using the
